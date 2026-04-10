@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenClaw Memory Repair"
+  short_description: "Repair OpenClaw memory plugin failures"
+  default_prompt: "Use $openclaw-memory-runtime-repair to diagnose and fix OpenClaw memory plugin config or runtime failures on this machine."
