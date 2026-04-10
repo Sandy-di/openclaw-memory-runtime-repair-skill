@@ -1,5 +1,7 @@
 # OpenClaw Memory Runtime Repair
 
+[中文说明](./README.zh-CN.md)
+
 Codex skill for diagnosing, repairing, and validating OpenClaw memory plugin failures, with a focus on `memory-lancedb-pro` regressions in `~/.openclaw`.
 
 ## What This Skill Covers
@@ -24,6 +26,7 @@ The skill does not just describe the problem. It includes:
 ```text
 openclaw-memory-runtime-repair/
 ├── README.md
+├── README.zh-CN.md
 ├── SKILL.md
 ├── agents/openai.yaml
 ├── references/repair-playbook.md
